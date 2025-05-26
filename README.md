@@ -9,7 +9,7 @@
 * **Parallel** conversion – spawns one LogParser instance per CPU core (configurable).
 * **Graceful error handling** – corrupt or empty logs are skipped and noted in a side log file.
 
-The repo ships with **Microsoft Log Parser 2.2** in `./LogParser/LogParser.exe`, so you don’t need to install anything system‑wide.
+The repo ships with **Microsoft Log Parser 2.2** in `./LogParser.exe`, so you don’t need to install anything system‑wide.
 
 ---
 
