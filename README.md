@@ -23,9 +23,7 @@ The repo ships with **Microsoft Log Parser 2.2** in `./LogParser.exe`, so you do
 
 Install the Python deps:
 
-```bash
-python -m venv venv
-venv\Scripts\activate            # Linux/macOS: source venv/bin/activate
+```powershell
 pip install -r requirements.txt    # pandas, lxml
 ```
 
